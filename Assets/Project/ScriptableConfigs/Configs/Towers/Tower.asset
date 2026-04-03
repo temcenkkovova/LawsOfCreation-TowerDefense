@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9a1c2ee5a370d4c8b1b0056a0574e1, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  cost: 50
+  prefab: {fileID: 523418137, guid: e139c750f8bad6f4ca858e9945c4583a, type: 3}
+  levels:
+  - Health: 200
+    attackConfig: {fileID: 11400000, guid: 43a9e076ba989ba4ab7913ed8f27e4f7, type: 2}
+    updateCost: 120
+    visualPrefab: {fileID: 651921841268078570, guid: 4ff2a59d5974ac140adb876480fdc951, type: 3}
+  - Health: 400
+    attackConfig: {fileID: 11400000, guid: baa5415db58dbc542be4189bd834bf20, type: 2}
+    updateCost: 150
+    visualPrefab: {fileID: 7988811471526365806, guid: 8e6355a048337614dad4d964bba52aa9, type: 3}
+  - Health: 600
+    attackConfig: {fileID: 11400000, guid: c58382a747717114fa1c831b9a38f000, type: 2}
+    updateCost: 250
+    visualPrefab: {fileID: 1054798048354365804, guid: b18bc27b2ded61747ab66dcc0e80733e, type: 3}
+  - Health: 800
+    attackConfig: {fileID: 11400000, guid: 1e502ff3e5e2c9b44a2de8aff3017401, type: 2}
+    updateCost: 400
+    visualPrefab: {fileID: 1054798048354365804, guid: 59bc338baab116d49a341dff63dd96b4, type: 3}
