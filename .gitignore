@@ -21,3 +21,15 @@ Assets/SkymonIconPackFree/
 Assets/SimpleNaturePack/
 Assets/Supercyan Character Pack Zombie Sample/
 Assets/YughuesFreeGroundMaterials
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
