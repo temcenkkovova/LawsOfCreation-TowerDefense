@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -45,6 +46,34 @@ ExportedObj/
 *.sln
 *.suo
 *.tmp
+=======
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+Assets/KayKit/
+Assets/Blink/
+Assets/Basic_RPG_Icons/
+Assets/BOXOPHOBIC/
+Assets/CaptainCatSparrow/
+Assets/Daniel Mistage/
+Assets/Game Buffs/
+Assets/JC_StylizedModularCharacters/
+Assets/Magic Weapon Icons/
+Assets/OccaSoftware/
+Assets/PBS Materials Variety Pack/
+Assets/Pup Up Productions/
+Assets/SimpleLowPolyNature/
+Assets/SkymonIconPackFree/
+Assets/SimpleNaturePack/
+Assets/Supercyan Character Pack Zombie Sample/
+Assets/YughuesFreeGroundMaterials
+*.csproj
+*.unityproj
+*.sln
+>>>>>>> master
 *.user
 *.userprefs
 *.pidb
@@ -53,6 +82,7 @@ ExportedObj/
 *.pdb
 *.mdb
 *.opendb
+<<<<<<< HEAD
 *.VC.db
 
 # Unity3D generated meta files
@@ -97,3 +127,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+=======
+*.VC.db
+>>>>>>> master
